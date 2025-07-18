@@ -1,0 +1,14 @@
+C:\Users\Paul\csharp\practico experimental 2\bin\Debug\net10.0\practico experimental 2.exe
+C:\Users\Paul\csharp\practico experimental 2\bin\Debug\net10.0\practico experimental 2.deps.json
+C:\Users\Paul\csharp\practico experimental 2\bin\Debug\net10.0\practico experimental 2.runtimeconfig.json
+C:\Users\Paul\csharp\practico experimental 2\bin\Debug\net10.0\practico experimental 2.dll
+C:\Users\Paul\csharp\practico experimental 2\bin\Debug\net10.0\practico experimental 2.pdb
+C:\Users\Paul\csharp\practico experimental 2\obj\Debug\net10.0\practico experimental 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul\csharp\practico experimental 2\obj\Debug\net10.0\practico experimental 2.AssemblyInfoInputs.cache
+C:\Users\Paul\csharp\practico experimental 2\obj\Debug\net10.0\practico experimental 2.AssemblyInfo.cs
+C:\Users\Paul\csharp\practico experimental 2\obj\Debug\net10.0\practico experimental 2.csproj.CoreCompileInputs.cache
+C:\Users\Paul\csharp\practico experimental 2\obj\Debug\net10.0\practico experimental 2.dll
+C:\Users\Paul\csharp\practico experimental 2\obj\Debug\net10.0\refint\practico experimental 2.dll
+C:\Users\Paul\csharp\practico experimental 2\obj\Debug\net10.0\practico experimental 2.pdb
+C:\Users\Paul\csharp\practico experimental 2\obj\Debug\net10.0\practico experimental 2.genruntimeconfig.cache
+C:\Users\Paul\csharp\practico experimental 2\obj\Debug\net10.0\ref\practico experimental 2.dll
